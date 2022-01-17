@@ -17,6 +17,7 @@ a{
     text-decoration: none;
 }
 button{
+    display: block;
     padding: 8px 15px;
     margin: 15px 0px;
 }
