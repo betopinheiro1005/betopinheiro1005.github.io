@@ -1,16 +1,22 @@
 h1{
     display: block;
     color:darkblue;
-    margin: 15px 0px;
+    margin: 25px 0px;
 }
 h2{
     display: block;
     color:darkgreen;
-    margin: 15px 0px;
+    margin: 25px 0px;
+}
+h3{
+    display: block;
+    color:brown;
+    margin: 25px 0px;
 }
 a{
     text-decoration: none;
 }
 button{
     padding: 8px 15px;
+    margin: 15px 0px;
 }
