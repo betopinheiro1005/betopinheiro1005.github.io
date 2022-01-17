@@ -1,11 +1,14 @@
 h1{
     color:darkblue;
-    margin: 10px 0px;
+    margin: 15px 0px;
 }
 h2{
     color:darkgreen;
-    margin: 10px 0px;
+    margin: 15px 0px;
 }
 a{
     text-decoration: none;
+}
+button{
+    padding: 8px 15px;
 }
