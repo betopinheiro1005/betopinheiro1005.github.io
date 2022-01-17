@@ -1,11 +1,11 @@
 h1{
     display: block;
-    color:darkblue;
+    color:darkred;
     margin: 25px 0px;
 }
 h2{
     display: block;
-    color:darkgreen;
+    color:darkblue;    
     margin: 25px 0px;
 }
 h3{
