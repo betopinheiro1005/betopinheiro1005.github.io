@@ -1,8 +1,10 @@
 h1{
+    display: block;
     color:darkblue;
     margin: 15px 0px;
 }
 h2{
+    display: block;
     color:darkgreen;
     margin: 15px 0px;
 }
