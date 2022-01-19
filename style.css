@@ -26,7 +26,5 @@ button{
     display: block;
     margin: 0 auto;
     padding: 20px;
-    width: 450px;
-    height: 600px;
     border: 1px solid black;
 }
