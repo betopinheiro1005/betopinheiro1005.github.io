@@ -24,7 +24,10 @@ button{
 }
 .imagem_app{
     display: block;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
     width: 450px;
     height: 600px;
 }
