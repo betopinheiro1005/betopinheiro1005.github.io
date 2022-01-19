@@ -2,11 +2,13 @@ h1{
     display: block;
     color:darkred;
     margin: 25px 0px;
+    text-align: center;
 }
 h2{
     display: block;
     color:darkblue;
     margin: 25px 0px;
+    text-align: center;
 }
 h3{
     display: block;
