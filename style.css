@@ -27,6 +27,8 @@ button{
 .imagem_app{
     display: block;
     margin: 0 auto;
+    width: 800px;
+    height: 800px;
     padding: 20px;
     border: 1px solid black;
 }
