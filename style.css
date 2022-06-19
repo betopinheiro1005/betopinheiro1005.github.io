@@ -15,12 +15,6 @@ h3, h4, h5{
     color: brown;
     margin: 25px 0px;
 }
-.verde{
-    color: green;
-}
-.vermelho{
-    color: red;
-}
 a{
     text-decoration: none;
 }
@@ -30,16 +24,19 @@ button{
     margin: 15px 0px;
     text-align: center;
 }
-.imagem_app{
-    display: block;
-    margin: 0 auto;
-    width: 80%;
-    padding: 20px;
-    border: 1px solid black;
-}
 .logo{
     display: block;
     margin: 0 auto;
     width: 30%;
     padding: 20px;
+}
+.text-paragraph{
+	text-align: justify;
+	font-size: 17px;
+	color: black;
+	display:block;
+	padding: 5px 0px;
+}
+li{
+	font-size:17px;
 }
