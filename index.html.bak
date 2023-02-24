@@ -8,9 +8,9 @@
   <link rel="stylesheet" href="/css/style.css">
   <title>Home</title>
 </head>
-<body>
+<body class="container">
 
-    <div class="container">
+    <div>
 		
 			<h1>Projetos desenvolvidos - Roberto Pinheiro</h1>
 			
