@@ -32,7 +32,7 @@ button{
 }
 .text-paragraph{
 	text-align: justify;
-	font-size: 20px;
+	font-size: 17px;
 	color: black;
 	display:block;
 	padding: 5px 0px;
