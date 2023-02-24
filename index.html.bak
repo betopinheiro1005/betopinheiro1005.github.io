@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
   <title>Home</title>
 </head>
@@ -61,14 +61,69 @@
       </ul>
       
       <hr>
-    
-    <h2>2) Survey System</h2>
 
-      <img class="pb-3" src="https://rpsoftdev.com.br/img/survey_system_construtor_formularios.jpg" alt="Survey System - Construtor de formulários" width="800px"></a></div>
-      <p class="text-paragraph">Sistema avançado de pesquisas desenvolvido em PHP com jQuery. O sistema possui tecnologia <span class="text-danger">drag and drop</span> e permite criar de forma simples, rápida e eficiente os mais variados tipos de pesquisas, sem depender de contratar empresas especializadas para realizar esse tipo de serviço e sem ter que arcar com os altos custos que isso representa. Com ele é possível criar pesquisas de mercado, pesquisas educacionais, pesquisas político-eleitorais, pesquisas comportamentais, pesquisas com fornecedores, pesquisas de satisfação de funcionários, pesquisas de clima organizacional, pesquisas com clientes e o público-alvo, enquetes, etc.</p>
-      <p class="text-paragraph">O Survey System utiliza as tecnologias mais modernas para a criação de formulários de forma rápida, prática e eficiente. O sistema conta com mais de 50 elementos de formulário pré-configurados. Os textos e validações podem ser customizados por meio de janelas modais, de acordo com as necessidades. As validações abrangem inclusive números de CPF e CNPJ. Alguns elementos de formulário possuem máscaras que facilitam a coleta de dados. As validações e máscaras asseguram a inserção dos dados de forma padronizada e livre de uma série de possíveis erros no banco de dados.</p>
-      <p class="text-paragraph">Com o Survey System você terá o controle de informações vitais para o sucesso de sua empresa.</p>
+
+
+    <h2>1) AcervoSaber</h2>
+
+      <img class="pb-3" src="https://rpsoftdev.com.br/img/biblioteca_virtual.jpg" alt="AcervoSaber" width="800px"></a></div>
+      <p class="text-paragraph">AcervoSaber é uma das maiores bibliotecas virtuais do Brasil. Atualmente conta com 11.000 (onze mil) arquivos em formato PDF, não só para estudantes (de nível médio ou superior), como para todos que desejam obter conhecimentos sobre diversos temas. Para facilitar a organização os arquivos estão distribuidos em 18 categorias e 184 subcategorias para você ler, aprender e baixar GRATUITAMENTE! Aqui você vai encontrar o que precisa! Para maiores informações leia o manual de instruções!</p>
+      <p class="text-paragraph">Meu principal objetivo ao construir este aplicativo é o de fornecer, aos estudantes ou qualquer pessoa interessada em adquirir conhecimentos nas mais diversas áreas de aprendizado, uma grande quantidade de material de qualidade, evitando que percam horas ou até mesmo dias buscando na Internet por informações adequadas que muitas vezes não consegue encontrar.</p>
+	  
+      <hr>
+
+      <h3>Área de uso do aplicativo</h3>
+      <p class="text-paragraph">Educação</p>
+ 
+      <hr>
       
+      <h3>Funcionalidades</h3>
+      <ol>
+		 <li>Listar as categorias, subcategorias, arquivos e usuários cadastrados</li>
+		 <li>Cadastrar categorias, subcategorias, arquivos e visitantes</li>
+		 <li>Visualizar os detalhes das categorias, das subcategorias e dos arquivos</li>
+		 <li>Editar ou atualizar categorias, subcategorias, arquivos</li>
+ 		 <li>Realizar busca de arquivos</li>
+		 <li>Mover um arquivo de uma subcategoria para outra</li>
+         <li>Ler, baixar ou imprimir os arquivos</li>
+		 <li>Ler ou baixar o manual do aplicativo</li>
+		 <li>Excluir categorias, subcategorias ou arquivos</li>
+		 <li>Sistema de autenticação e de permissões de usuários</li>
+         <li>Cadastro e gerenciamento de usuários;</li>
+         <li>Criptografia das senhas dos usuários cadastrados;</li>
+         <li>Visualizar dados de cadastro de todos os usuários</li>
+         <li>Alterar ou atualizar dados de cadastro dos usuários</li>
+         <li>Excluir visitantes do sistema</li>
+      </ol>
+
+      <h3>Documentação</h3>
+      <p class="text-paragraph">Conheça melhor o aplicativo, seus recursos e funcionalidades. Leia o Manual do Survey System</p>
+      <a href="https://rpsoftdev.com.br/manuais/manual_acervosaber.pdf" target="_blank" rel="noopener"><button class="btn btn-success">Manual do Survey System</button></a>
+
+      <h3>Tecnologias empregadas</h3>
+      <ul>
+         <li><span class="text-danger">Linguagem de programação</span>: PHP (versão 7.4.29) orientado a objetos</li>
+         <li><span class="text-danger">Framework PHP</span>: Laravel versão 7.30.6</li>
+         <li><span class="text-danger">Arquitetura da aplicação</span>: Padrão MVC (Model-View-Controller)</li>
+         <li><span class="text-danger">SGBD</span>: MySQL 5.7</li>
+         <li><span class="text-danger">Design visual</span>: Utiliza o framework Bootstrap versão 4.6.1. É responsivo</li>
+         <li><span class="text-danger">Icones</span>: Utiliza o framework Font Awesome Icons 6.1.1</li>
+      </ul>
+      
+      <hr>
+    
+    <h2>2) Gerenciamento de API's</h2>
+
+      <img class="pb-3" src="https://rpsoftdev.com.br/img/gerenciamento_apis.jpg" alt="Gerenciamento de APIs" width="800px"></a></div>
+      <p class="text-paragraph">Basicamente, este aplicativo é um sistema de gerenciamento de API's cujo objetivo é disponibilizar endereços de API's que ofereçam serviços úteis aos usuários.</p>
+      <p class="text-paragraph">É possível acessar várias API's gratuitas na Internet. Em boa parte delas é necessário se inscrever para obter credenciais.</p>
+      <p class="text-paragraph">O sistema permite acesso por URL através de um browser. </p>
+      <p class="text-paragraph">Após se cadastrar, o usuário pode adicionar URL's, além de visualizar uma lista de URL's cadastradas e um link para visualizar a resposta das requisições.</p>
+      <p class="text-paragraph">Somente usuários cadastrados e autenticados podem cadastrar URL's e visualizar o resultado das URL's previamente cadastradas.</p>
+      <p class="text-paragraph">Ao cadastrar uma nova URL, o usuário apenas recebe uma confirmação de que a URL foi cadastrada com sucesso, além de poder visualizá-la na sua lista de URL's cadastradas.</p>	  
+      <p class="text-paragraph">O sistema possui uma tabela no banco de dados para armazenar a URL, a resposta das requisições HTTP, o 'status code' da resposta, e o timestamp do momento da consulta.</p>
+      <p class="text-paragraph">Além de requisições automáticas feitas pelo Crontab, o usuário pode atualizar uma URL qualquer ou todas as URL's manualmente.</p>
+
       <hr>
       
       <div><img class="pb-2" src="/img/survey_system_formularios.jpg" alt="Survey System - Formulários" width="800px"></div>
@@ -122,7 +177,7 @@
       
       <hr>
       
-    <h2>3) Sistema de gerenciamento de incidentes (SGI)</h2>
+    <h2>4) Sistema de gerenciamento de incidentes (SGI)</h2>
 
     <div class="pb-2">
 
@@ -182,7 +237,7 @@
       
       <hr>
       
-    <h2>4) Portal News</h2>
+    <h2>5) Portal News</h2>
 
     <img class="pb-2" src="https://rpsoftdev.com.br/img/portal_news.jpg" alt="Portal News - Artigos e Notícias" width="800px">
 
@@ -240,7 +295,7 @@
     
     <hr>
 	  
-    <h2>5) Sistema Alpha Pesquisas</h2>
+    <h2>6) Sistema Alpha Pesquisas</h2>
 
     <div>
       <a target="_blank" rel="noopener">
@@ -305,7 +360,7 @@
       
       <hr>
 
-    <h2>6) Câmbio Online</h2>
+    <h2>7) Câmbio Online</h2>
 
     <div>
     <p class="text-paragraph">O aplicativo permite a um usuário cadastrado no sistema, a compra online de Dólar, Euro, Libra e muitas outras moedas estrangeiras em espécie, de acordo com a cotação do dia, mediante o pagamento de taxas administrativas estipuladas pela empresa que oferece o serviço.</p>
@@ -360,7 +415,7 @@
     
     <hr>
     
-    <h2>7) Sistema Flash de Pesquisas</h2>
+    <h2>8) Sistema Flash de Pesquisas</h2>
 
     <p class="text-paragraph"> O Sistema Flash em conjunto com o Sistema POP permite a realização de diversos tipos de pesquisas de uma maneira muito rápida, segura e eficiente, utilizando <span class="text-danger">coletores de dados eletrônicos</span>. O sistema Flash foi desenvolvido em linguagem de programação <span class="text-danger">Clipper</span> com o objetivo de acrescentar diversos recursos e melhorias ao Sistema POP (sistema antes utilizado integralmente pela empresa).</p>
 
