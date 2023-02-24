@@ -29,21 +29,21 @@
       
       <h3>Funcionalidades</h3>
       <ol>
-		 <li>Listar as categorias, subcategorias, arquivos e usuários cadastrados</li>
-		 <li>Cadastrar categorias, subcategorias, arquivos e visitantes</li>
-		 <li>Visualizar os detalhes das categorias, das subcategorias e dos arquivos</li>
-		 <li>Editar ou atualizar categorias, subcategorias, arquivos</li>
- 		 <li>Realizar busca de arquivos</li>
-		 <li>Mover um arquivo de uma subcategoria para outra</li>
-         <li>Ler, baixar ou imprimir os arquivos</li>
-		 <li>Ler ou baixar o manual do aplicativo</li>
-		 <li>Excluir categorias, subcategorias ou arquivos</li>
-		 <li>Sistema de autenticação e de permissões de usuários</li>
+		 <li>Listar as categorias, subcategorias, arquivos e usuários cadastrados;</li>
+		 <li>Cadastrar categorias, subcategorias, arquivos e visitantes;</li>
+		 <li>Visualizar os detalhes das categorias, das subcategorias e dos arquivos;</li>
+		 <li>Editar ou atualizar categorias, subcategorias, arquivos;</li>
+ 		 <li>Realizar busca de arquivos;</li>
+		 <li>Mover um arquivo de uma subcategoria para outra;</li>
+         <li>Ler, baixar ou imprimir os arquivos;</li>
+		 <li>Ler ou baixar o manual do aplicativo;</li>
+		 <li>Excluir categorias, subcategorias ou arquivos;</li>
+		 <li>Sistema de autenticação e de permissões de usuários;</li>
          <li>Cadastro e gerenciamento de usuários;</li>
          <li>Criptografia das senhas dos usuários cadastrados;</li>
-         <li>Visualizar dados de cadastro de todos os usuários</li>
-         <li>Alterar ou atualizar dados de cadastro dos usuários</li>
-         <li>Excluir visitantes do sistema</li>
+         <li>Visualizar dados de cadastro de todos os usuários;</li>
+         <li>Alterar ou atualizar dados de cadastro dos usuários;</li>
+         <li>Excluir visitantes do sistema.</li>
       </ol>
 
       <h3>Documentação</h3>
@@ -62,14 +62,15 @@
       
       <hr>
 
+    <h2>2) Survey System</h2>
 
+      <img class="pb-3" src="https://rpsoftdev.com.br/img/survey_system_construtor_formularios.jpg" alt="Survey System" width="800px"></a></div>
+      <p class="text-paragraph">Sistema avançado de pesquisas desenvolvido em PHP com jQuery. O sistema possui tecnologia drag and drop e permite criar de forma simples, rápida e eficiente os mais variados tipos de pesquisas, sem depender de contratar empresas especializadas para realizar esse tipo de serviço e sem ter que arcar com os altos custos que isso representa. Com ele é possível criar pesquisas de mercado, pesquisas educacionais, pesquisas político-eleitorais, pesquisas comportamentais, pesquisas com fornecedores, pesquisas de satisfação de funcionários, pesquisas de clima organizacional, pesquisas com clientes e o público-alvo, enquetes, etc.</p>
+      <p class="text-paragraph">O Survey System utiliza as tecnologias mais modernas para a criação de formulários de forma rápida, prática e eficiente. O sistema conta com mais de 50 elementos de formulário pré-configurados. Os textos e validações podem ser customizados por meio de janelas modais, de acordo com as necessidades. As validações abrangem inclusive números de CPF e CNPJ. Alguns elementos de formulário possuem máscaras que facilitam a coleta de dados. As validações e máscaras asseguram a inserção dos dados de forma padronizada e livre de uma série de possíveis erros no banco de dados.</p>
+      <p class="text-paragraph">Com o Survey System você terá o controle de informações vitais para o sucesso de sua empresa.</p>
 
-    <h2>1) AcervoSaber</h2>
+	  <img class="pb-3" src="https://rpsoftdev.com.br/img/survey_system_formularios.jpg" alt="Survey System - Formulários" width="800px"></a></div>
 
-      <img class="pb-3" src="https://rpsoftdev.com.br/img/biblioteca_virtual.jpg" alt="AcervoSaber" width="800px"></a></div>
-      <p class="text-paragraph">AcervoSaber é uma das maiores bibliotecas virtuais do Brasil. Atualmente conta com 11.000 (onze mil) arquivos em formato PDF, não só para estudantes (de nível médio ou superior), como para todos que desejam obter conhecimentos sobre diversos temas. Para facilitar a organização os arquivos estão distribuidos em 18 categorias e 184 subcategorias para você ler, aprender e baixar GRATUITAMENTE! Aqui você vai encontrar o que precisa! Para maiores informações leia o manual de instruções!</p>
-      <p class="text-paragraph">Meu principal objetivo ao construir este aplicativo é o de fornecer, aos estudantes ou qualquer pessoa interessada em adquirir conhecimentos nas mais diversas áreas de aprendizado, uma grande quantidade de material de qualidade, evitando que percam horas ou até mesmo dias buscando na Internet por informações adequadas que muitas vezes não consegue encontrar.</p>
-	  
       <hr>
 
       <h3>Área de uso do aplicativo</h3>
@@ -79,40 +80,43 @@
       
       <h3>Funcionalidades</h3>
       <ol>
-		 <li>Listar as categorias, subcategorias, arquivos e usuários cadastrados</li>
-		 <li>Cadastrar categorias, subcategorias, arquivos e visitantes</li>
-		 <li>Visualizar os detalhes das categorias, das subcategorias e dos arquivos</li>
-		 <li>Editar ou atualizar categorias, subcategorias, arquivos</li>
- 		 <li>Realizar busca de arquivos</li>
-		 <li>Mover um arquivo de uma subcategoria para outra</li>
-         <li>Ler, baixar ou imprimir os arquivos</li>
-		 <li>Ler ou baixar o manual do aplicativo</li>
-		 <li>Excluir categorias, subcategorias ou arquivos</li>
 		 <li>Sistema de autenticação e de permissões de usuários</li>
-         <li>Cadastro e gerenciamento de usuários;</li>
-         <li>Criptografia das senhas dos usuários cadastrados;</li>
-         <li>Visualizar dados de cadastro de todos os usuários</li>
-         <li>Alterar ou atualizar dados de cadastro dos usuários</li>
-         <li>Excluir visitantes do sistema</li>
+		 <li>Cadastro e gerenciamento de usuários;</li>
+		 <li>Criptografia das senhas dos usuários cadastrados;</li>
+		 <li>Permite fazer a Importação de lista de usuários;</li>
+ 		 <li>Construção de formulários (quatro tipos: web, internos, externos e de serviços);</li>
+		 <li>Os textos e validações dos elementos de formulário são configuráveis (customizáveis);</li>
+		 <li>Permite inserir nos formulários: textos explicativos, subtítulos, separadores, imagens ou fotos;</li>
+		 <li>Gerenciamento dos formulários e dos dados coletados nas pesquisas;</li>
+		 <li>Exportação dos dados das pesquisas em formato CSV e XML;</li>
+		 <li>Geração automática do código HTML dos formulários;</li>
+         <li>Geração de arquivos PDF (do código HTML ou dos dados das pesquisas);</li>
+         <li>Sistema de backup/restore do banco de dados;</li>
+         <li>Geração de relatórios das pesquisas de forma automática e em tempo real;</li>
+         <li>Geração de gráficos (quatro tipos distintos de gráficos) de forma automática e em tempo real;</li>
+         <li>Relatórios e gráficos para análise e interpretação dos dados. Auxiliam na tomada de decisões.</li>
       </ol>
 
       <h3>Documentação</h3>
       <p class="text-paragraph">Conheça melhor o aplicativo, seus recursos e funcionalidades. Leia o Manual do Survey System</p>
-      <a href="https://rpsoftdev.com.br/manuais/manual_acervosaber.pdf" target="_blank" rel="noopener"><button class="btn btn-success">Manual do Survey System</button></a>
+      <a href="https://rpsoftdev.com.br/manuais/manual_survey_system.pdf" target="_blank" rel="noopener"><button class="btn btn-success">Manual do Survey System</button></a>
 
       <h3>Tecnologias empregadas</h3>
       <ul>
-         <li><span class="text-danger">Linguagem de programação</span>: PHP (versão 7.4.29) orientado a objetos</li>
-         <li><span class="text-danger">Framework PHP</span>: Laravel versão 7.30.6</li>
-         <li><span class="text-danger">Arquitetura da aplicação</span>: Padrão MVC (Model-View-Controller)</li>
+         <li><span class="text-danger">Linguagem de programação</span>: PHP</li>
+         <li><span class="text-danger">Criação de formulários</span>: Método Drag and Drop</li>
+         <li><span class="text-danger">Bibliotecas Javascript</span>: jQuery e jQuery-UI</li>
+         <li><span class="text-danger">Masks for jQuery Library</span>: jquery.maskedinput e jquery.maskMoney</li>
          <li><span class="text-danger">SGBD</span>: MySQL 5.7</li>
-         <li><span class="text-danger">Design visual</span>: Utiliza o framework Bootstrap versão 4.6.1. É responsivo</li>
-         <li><span class="text-danger">Icones</span>: Utiliza o framework Font Awesome Icons 6.1.1</li>
+         <li><span class="text-danger">Design visual</span>: Framework Bootstrap v3.3.7</li>
+         <li><span class="text-danger">Icones</span>: Framework Font Awesome Icons</li>
+         <li><span class="text-danger">Javascript popup boxes</span>: SweetAlert</li>
+         <li><span class="text-danger">Biblioteca para criar arquivos PDF</span>: mPDF</li>
       </ul>
       
       <hr>
     
-    <h2>2) Gerenciamento de API's</h2>
+    <h2>3) Gerenciamento de API's</h2>
 
       <img class="pb-3" src="https://rpsoftdev.com.br/img/gerenciamento_apis.jpg" alt="Gerenciamento de APIs" width="800px"></a></div>
       <p class="text-paragraph">Basicamente, este aplicativo é um sistema de gerenciamento de API's cujo objetivo é disponibilizar endereços de API's que ofereçam serviços úteis aos usuários.</p>
@@ -126,55 +130,53 @@
 
       <hr>
       
-      <div><img class="pb-2" src="/img/survey_system_formularios.jpg" alt="Survey System - Formulários" width="800px"></div>
+      <div><img class="pb-2" src="https://rpsoftdev.com.br/img/gerenciamento_apis.jpg" alt="Gerenciamento de API's" width="800px"></div>
       
       <hr>
       
       <h3>Área de uso do aplicativo</h3>
-      <p class="text-paragraph">Pesquisas em Geral</p>
+      <p class="text-paragraph">Manipulação de API's</p>
       
       <hr>
       
       <h3>Funcionalidades</h3>
+
       <ol>
-         <li>Sistema de autenticação e de permissões de usuários</li>
-         <li>Cadastro e gerenciamento de usuários;</li>
-         <li>Criptografia das senhas dos usuários cadastrados;</li>
-         <li>Permite fazer a Importação de lista de usuários;</li>
-         <li>Construção de formulários (quatro tipos: web, internos, externos e de serviços);</li>
-         <li>Os textos e validações dos elementos de formulário são configuráveis (customizáveis);</li>
-         <li>Permite inserir nos formulários: textos explicativos, subtítulos, separadores, imagens ou fotos;</li>
-         <li>Gerenciamento dos formulários e dos dados coletados nas pesquisas;</li>
-         <li>Exportação dos dados das pesquisas em formato CSV e XML;</li>
-         <li>Geração automática do código HTML dos formulários;</li>
-         <li>Geração de arquivos PDF (do código HTML ou dos dados das pesquisas);</li>
-         <li>Sistema de backup/restore do banco de dados;</li>
-         <li>Geração de relatórios das pesquisas de forma automática e em tempo real</li>
-         <li>Geração de gráficos (quatro tipos distintos de gráficos) de forma automática e em tempo real</li>
-         <li>Relatórios e gráficos para análise e interpretação dos dados. Auxiliam na tomada de decisões.</li>
+         <li>Listar URL's cadastradas;</li>
+         <li>Cadastrar URL;</li>
+         <li>Acessar diretamente, pelos links, cada uma das URL's em um browser;</li>
+         <li>Exibir detalhes de cada uma das URL's cadastradas;</li>
+         <li>Atualização manual de requisições (uma ou todas);</li>
+		 <li>Atualização automática de todas as requisições (usando Crontab);</li>
+         <li>Editar (alterar) endereços URL e suas respectivas descrições. </li>
+         <li>Excluir URL;</li>
+         <li>Cadastrar visitante;</li>
+         <li>Listar usuários cadastrados</li>
+         <li>Exibir dados de um usuário;</li>
+         <li>Atualizar dados de um usuário;</li>
+         <li>Excluir usuários (visitantes).</li>
       </ol>
       
       <hr>
       
       <h3>Documentação</h3>
-      <p class="text-paragraph">Conheça melhor o aplicativo, seus recursos e funcionalidades. Leia o Manual do Survey System</p>
-      <a href="https://rpsoftdev.com.br/manuais/manual_survey_system.pdf" target="_blank" rel="noopener"><button class="btn btn-success">Manual do Survey System</button></a>
+      <p class="text-paragraph">Conheça melhor o aplicativo, seus recursos e funcionalidades. Leia o Manual do Gerenciamento de API's</p>
+      <a href="https://rpsoftdev.com.br/manuais/manual_gerenciamento_apis.pdf" target="_blank" rel="noopener"><button class="btn btn-success">Manual do Gerenciamento de API's</button></a>
       
       <hr>
       
       <h3>Tecnologias empregadas</h3>
       <ul>
-         <li><span class="text-danger">Linguagem de programação</span>: PHP</li>
-         <li><span class="text-danger">Criação de formulários</span>: Método Drag and Drop</li>
-         <li><span class="text-danger">Bibliotecas Javascript</span>: jQuery e jQuery-UI</li>
-         <li><span class="text-danger">Masks for jQuery Library</span>: jquery.maskedinput e jquery.maskMoney</li>
-         <li><span class="text-danger">SGBC</span>: MySQL 5.7</li>
-         <li><span class="text-danger">Design visual</span>: Framework Bootstrap v3.3.7</li>
-         <li><span class="text-danger">Javascript popup boxes</span>: SweetAlert</li>
-         <li><span class="text-danger">Biblioteca para criar arquivos PDF</span>: mPDF</li>
-         <li><span class="text-danger">Icones</span>: Framework Font Awesome Icons</li>
+         <li><span class="text-danger">Linguagem de programação</span>: PHP (versão 7.4.29) orientado a objetos</li>
+         <li><span class="text-danger">Framework PHP</span>: Laravel versão 7.30.6</li>
+         <li><span class="text-danger">Arquitetura da aplicação</span>: Padrão MVC (Model-View-Controller)</li>
+         <li><span class="text-danger">SGBD</span>: MySQL 5.7</li>
+		 <li><span class="text-danger">Agendador de tarefas</span>: Crontab</li>
+		 <li><span class="text-danger">jQuery</span>: JavaScript Library v3.5.1</li>
+         <li><span class="text-danger">Design visual</span>: Framework Bootstrap versão 4.6.1.</li>
+         <li><span class="text-danger">Icones</span>: Framework Font Awesome Icons 6.1.1</li>
       </ul>
-      
+
       <hr>
       
     <h2>4) Sistema de gerenciamento de incidentes (SGI)</h2>
@@ -185,7 +187,6 @@
       </a></div>
       <p class="text-paragraph">Um incidente de segurança pode ser definido como qualquer evento adverso, confirmado ou sob suspeita, relacionado a segurança de sistemas de computação ou de Redes de Computadores. Em geral, qualquer situação em que um ou mais ativos da informação está(ão) sob risco, é considerado um incidente de segurança. O propósito do processo de gerenciamento de incidentes é garantir que os incidentes e as fraquezas que são relacionadas aos sistemas de informação sejam conhecidos para que as medidas apropriadas sejam tomadas a tempo. Os funcionários, pessoal temporário e usuários externos, todos devem estar cientes dos procedimentos para relatar os vários tipos de incidentes e falhas que podem ter uma influência sobre a confiabilidade da informação e da segurança dos ativos de negócios.</p>
       <p class="text-paragraph">O SGI é um sistema desenvolvido em PHP, com framework Laravel que permite aos colaboradores de uma empresa e/ou terceiros que notifiquem casos de incidentes de TI. Desta forma, medidas apropriadas podem ser tomadas a tempo no sentido de se evitar que ativos de informação da empresa corram riscos ou sejam comprometidos. O sistema possibilita o registro e controle das notificações de incidentes abertos e das resoluções e providências tomadas pela equipe de TI da empresa.</p>
-      
       
       <hr>
       
