@@ -145,6 +145,54 @@
       
       <hr>
       
+      <h3>Página do Survey System</h3>
+      <p class="text-paragraph">Visite a página do Survey System e faça um teste do app logando-se no sistema como: administrador, gerente, funcionário, entrevistador ou técnico:</p>
+      <p class="text-paragraph">Envie para o email <span class="text-danger">robertopinheiro7843@gmail.com</span> sugestões e ideias para tornar o aplicativo ainda melhor. Muito obrigado!</p>
+      
+      <div class="form-group"><a href="https://orion3.com.br/surveysystem/login/login.php" target="_blank" rel="noopener"><button class="btn btn-primary">Visite a página do aplicativo</button></a></div>
+      
+      <hr>
+      
+      <h6>Administrador:</h6>
+      <ul>
+         <li>Usuário: <span class="text-danger">rodrigoalmeida</span></li>
+         <li>Senha: <span class="text-danger">roal77ss</span></li>
+      </ul>
+      
+      <hr>
+      
+      <h6>Gerente:</h6>
+      <ul>
+         <li>Usuário: <span class="text-danger">luizmartins</span></li>
+         <li>Senha: <span class="text-danger">luimar47</span></li>
+      </ul>
+      
+      <hr>
+      
+      <h6>Funcionário:</h6>
+      <ul>
+         <li>Usuário: <span class="text-danger">bernardobrito</span></li>
+         <li>Senha: <span class="text-danger">berbri85</span></li>
+      </ul>
+      
+      <hr>
+      
+      <h6>Entrevistador:</h6>
+      <ul>
+         <li>Usuário: <span class="text-danger">fabiananovaes</span></li>
+         <li>Senha: <span class="text-danger">fabnov76</span></li>
+      </ul>
+      
+      <hr>
+      
+      <h6>Técnico:</h6>
+      <ul>
+         <li>Usuário: <span class="text-danger">juanpeixoto</span></li>
+         <li>Senha: <span class="text-danger">juapei47</span></li>
+      </ul>
+      
+      <hr>
+
     <h2>3) Sistema de gerenciamento de incidentes (SGI)</h2>
 
     <div class="pb-2">
@@ -160,6 +208,7 @@
       
       <h3>Área de uso do aplicativo</h3>
       <p class="text-paragraph">Segurança da Informação</p>
+      
       
       <hr>
       
@@ -281,9 +330,12 @@
       
       <hr>
 
-    <h2>5) Câmbio Online</h2>
+    <h2>5) Currency Converter</h2>
 
     <div>
+      <a href="https://orion3.com.br/currency_converter/public" target="_blank" rel="noopener">
+    <img class="pb-3" src="/img/currency_converter.jpg" alt="Currency Converter - Cotações realizadas" width="800px">
+    </a></div>
     <p class="text-paragraph">O aplicativo permite a um usuário cadastrado no sistema, a compra online de Dólar, Euro, Libra e muitas outras moedas estrangeiras em espécie, de acordo com a cotação do dia, mediante o pagamento de taxas administrativas estipuladas pela empresa que oferece o serviço.</p>
     <p class="text-paragraph">Em um formulário, o usuário informa:
     1) O valor (em Reais) que deseja comprar (entre R$1.000,00 e R$100.000,00);
@@ -293,12 +345,14 @@
     <p class="text-paragraph">Após o desconto das taxas, é calculado o valor líquido a ser adquirido (em Reais), que é convertido para a moeda a ser adquirida. Todas essas informações podem ser consultadas pelo usuário de forma detalhada.</p>
     <p class="text-paragraph">Caso a transação seja efetuada, o usuário é informado sobre data e hora, que o valor estará disponível, para retirar seu pedido em uma das lojas físicas ou receber no local de preferência por meio de serviço de entrega de câmbio¹.</p>
     <p class="text-paragraph">¹Nesse caso, é necessário consultar antes se há disponibilidade em sua região. Este serviço é sujeito à cobrança de tarifa.</p>
-
+    
+    
     <hr>
     
     <h3>Área de uso do aplicativo</h3>
     <p class="text-paragraph">Sistema Financeiro</p>
-   
+    
+    
     <hr>
     
     <h3>Funcionalidades</h3>
@@ -336,6 +390,14 @@
     
     <hr>
     
+    <h3>Página do Currency Converter</h3>
+    <p class="text-paragraph">Acesse a página do Currency Converter.</p>
+    
+    <div class="form-group">
+          <a href="https://orion3.com.br/currency_converter/public" target="_blank" rel="noopener"><button class="btn btn-primary">Visite a página do aplicativo</button></a></div>
+    
+    <hr>
+
     <h2>6) Sistema Flash de Pesquisas</h2>
 
     <p class="text-paragraph"> O Sistema Flash em conjunto com o Sistema POP permite a realização de diversos tipos de pesquisas de uma maneira muito rápida, segura e eficiente, utilizando <span class="text-danger">coletores de dados eletrônicos</span>. O sistema Flash foi desenvolvido em linguagem de programação <span class="text-danger">Clipper</span> com o objetivo de acrescentar diversos recursos e melhorias ao Sistema POP (sistema antes utilizado integralmente pela empresa).</p>
