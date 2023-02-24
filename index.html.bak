@@ -118,7 +118,7 @@
     
     <h2>3) Gerenciamento de API's</h2>
 
-      <img class="pb-3" src="https://rpsoftdev.com.br/img/gerenciamento_apis.jpg" alt="Gerenciamento de APIs" width="800px"></a></div>
+      <img class="pb-3" src="https://rpsoftdev.com.br/img/gerenciamento_apis.jpg" alt="Gerenciamento de API's" width="800px"></a></div>
       <p class="text-paragraph">Basicamente, este aplicativo é um sistema de gerenciamento de API's cujo objetivo é disponibilizar endereços de API's que ofereçam serviços úteis aos usuários.</p>
       <p class="text-paragraph">É possível acessar várias API's gratuitas na Internet. Em boa parte delas é necessário se inscrever para obter credenciais.</p>
       <p class="text-paragraph">O sistema permite acesso por URL através de um browser. </p>
@@ -128,10 +128,6 @@
       <p class="text-paragraph">O sistema possui uma tabela no banco de dados para armazenar a URL, a resposta das requisições HTTP, o 'status code' da resposta, e o timestamp do momento da consulta.</p>
       <p class="text-paragraph">Além de requisições automáticas feitas pelo Crontab, o usuário pode atualizar uma URL qualquer ou todas as URL's manualmente.</p>
 
-      <hr>
-      
-      <div><img class="pb-2" src="https://rpsoftdev.com.br/img/gerenciamento_apis.jpg" alt="Gerenciamento de API's" width="800px"></div>
-      
       <hr>
       
       <h3>Área de uso do aplicativo</h3>
